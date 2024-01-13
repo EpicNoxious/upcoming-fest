@@ -1,0 +1,8 @@
+#preloader{
+    background: #f6f5f5 url(pics/gifs/UPCOMINGFEST.ML\ \(3\).gif) no-repeat center center;
+    background-size: 30%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    }
